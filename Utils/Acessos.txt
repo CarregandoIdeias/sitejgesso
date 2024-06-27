@@ -1,0 +1,60 @@
+Acessar painel godaddy.com
+
+https://sso.godaddy.com/?realm=idp&path=%2Fproducts&app=account&isc=gt02br20
+
+Usuario: 226915990
+Senha: caminho94
+
+Acessar painel UolHost Hospedagem
+
+https://painel.uol.com.br/myProducts.html
+
+Usuario: j.gesso2@hotmail.com
+Senha: caminho94
+
+Painel Email- https://email.uolhost.com.br/
+
+Usuario: contato@jgesso.com.br
+Senha: #Caminho94*
+
+GMAIL
+Usuario: jgessoitupeva@gmail.com
+Senha: caminho94
+
+Dados de acesso FTP (avançado)
+Usuário FTP/SSH: jgesso 
+Senha: caminho94
+Endereço FTP: ftp.jgesso.com ou ftp.uhserver.comEndereço SSH: ssh.jgesso.com ou ssh.uhserver.com
+
+
+-------------------------------------------------------------------------------------------------
+
+LOCALWEB 
+
+CENTRAL DO CLIENTE
+
+https://www.locaweb.com.br/?central_login=true&redirect_login=https%253A%252F%252Fcentraldocliente.locaweb.com.br%252F
+
+Usuario: jgessoitupeva
+Senha: caminho94
+
+
+WEBMAIL
+
+
+https://webmail-seguro.com.br/?_task=logout&_token=SQitxOXiOKf8R0559OpApteqriS1A3Cn
+
+Usuario: contato@jgesso.com.br
+Senha: #Caminho94*
+
+
+Dados de acesso FTP
+HOST: ftp.jgesso.com.br
+URL Alternativa: ftp.jgesso1.hospedagemdesites.ws 
+Usuário de FTP: jgesso1
+Senha:Caminho94#jgesso
+Pasta raiz: /home/jgesso1/
+Porta:21
+
+
+
